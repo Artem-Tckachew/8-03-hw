@@ -76,6 +76,7 @@ build:
   stage: .pre
   image: docker:latest
   script:
-   - docker build .```
+   - docker build .
+```
 
 ![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/4.png)
