@@ -43,10 +43,9 @@ build:
    - docker build .
 ```
 
-`При необходимости прикрепитe сюда скриншоты
 ![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/2.png)
 ![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/3.png)
-![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/5.png)`
+![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/5.png)
 
 
 ---
@@ -79,4 +78,4 @@ build:
   script:
    - docker build .```
 
-`![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/4.png)`
+![alt text](https://github.com/Artem-Tckachew/8-03-hw/blob/main/4.png)
